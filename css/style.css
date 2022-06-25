@@ -19,26 +19,29 @@ body{
 }
 
 .foto{
-    width: 180px;
+    width: 165px;
     border-radius: 50%;
-    border: 3px dashed white;
+    border: 5px dotted #FF6699;
+    padding: 1px;
     box-shadow: 0 0 200px white;
     border-width: 2px;
+    background-color: white;
 }
 
 h1{
     font-family: 'Satisfy', cursive;
-    font-size: 36px;
+    font-size: 39px;
     font-weight: 400;
     margin-bottom: -6px;
     
 }
 
 h2{
-    font-family: 'Rajdhani', sans-serif;
-    font-size: 18px;
-    letter-spacing: 0px;
-    font-weight: 600;
+    font-family: 'Anek Latin', sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    color: #ffb8d0;
 }
 
 .profile{
@@ -77,19 +80,19 @@ h2{
     display: block;
     background-color: white;
     padding: 10px 20px;
-    border: 1px rgb(190, 95, 111);
+    border: 1px #FF6699;
     border-radius: 10px;
     border-style: solid;
     box-shadow: 0 0 3px white;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: bold;
     text-align: center;
 }
 
 .links_list li a span{
     display: block;
-    color:rgb(190, 95, 111);
+    color:#FF6699;
     font-size: 14px;
     font-weight: lighter;
 }
