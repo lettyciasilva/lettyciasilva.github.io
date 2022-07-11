@@ -12,7 +12,7 @@ body{
     font-family: 'Anek Latin', sans-serif;
     font-size: 16px;
     letter-spacing: 0px;
-    background: linear-gradient(180deg, rgba(108,61,149,1) 10%, rgba(175, 115, 229, 0.662) 100%);
+    background: linear-gradient(180deg, rgba(108,61,149,1) 30%, rgb(95, 147, 250) 100%);
 
     /*background = cor gradiente, degradê atraves de site */
 }
@@ -50,7 +50,6 @@ h3{
     font-size: 30px;
     margin-top: 35px;
     text-align: center;
-
 }
 
 .profile{
@@ -78,6 +77,10 @@ h3{
 
 .links_list{
     list-style: none;
+}
+
+.icon{
+    width: 5px;
 }
 
 .links_list li{
@@ -135,4 +138,3 @@ h3{
     text-align: center;
     font-size: 12px;
 }
-  
